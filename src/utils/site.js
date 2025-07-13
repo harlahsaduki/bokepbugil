@@ -4,6 +4,6 @@ export const desk = 'Video Bokep Indo Terbaru Bocil Ngentot Jilbab Colmek Smp Vi
 export const terbit = '2025-02-17T00:03:13Z';
 
 export const google = 'EFhfaejPAhXexCtRW9YCQ5FPXdMq4guLteUZyvmJsME';
-export const yandex = 'abb17ebceb04f9a7'
+export const yandex = '6a78bdba4061fcc9'
 
 export const index = '71547448-b0a0-43e5-8cfd-5ea456cff033';
